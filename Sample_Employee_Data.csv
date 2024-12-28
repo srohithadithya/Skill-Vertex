@@ -1,0 +1,1471 @@
+Age,PastEmployee,BusinessTravel,Department,Gender,JobRole,NumCompaniesWorked,OverTime
+46,No,Travel_Rarely,Human Resources,Male,Human Resources,8,Yes
+37,Yes,Travel_Rarely,Human Resources,Male,Human Resources,4,Yes
+59,No,Non-Travel,Human Resources,Female,Manager,9,No
+54,No,Non-Travel,Human Resources,Female,Manager,2,Yes
+26,No,Travel_Rarely,Human Resources,Female,Human Resources,1,No
+30,No,Travel_Rarely,Human Resources,Male,Human Resources,0,Yes
+59,No,Travel_Rarely,Human Resources,Male,Human Resources,8,No
+31,No,Travel_Rarely,Human Resources,Male,Human Resources,3,No
+42,No,Travel_Rarely,Human Resources,Male,Human Resources,0,Yes
+19,Yes,Travel_Rarely,Human Resources,Male,Human Resources,1,No
+34,Yes,Travel_Frequently,Human Resources,Female,Human Resources,9,Yes
+26,Yes,Travel_Frequently,Human Resources,Female,Human Resources,0,Yes
+50,No,Travel_Frequently,Human Resources,Male,Manager,1,No
+44,No,Travel_Rarely,Human Resources,Female,Human Resources,4,No
+54,No,Travel_Rarely,Human Resources,Male,Human Resources,2,No
+41,No,Travel_Rarely,Human Resources,Male,Manager,3,No
+41,No,Travel_Rarely,Human Resources,Male,Manager,1,No
+39,No,Travel_Rarely,Human Resources,Female,Human Resources,9,No
+36,No,Travel_Rarely,Human Resources,Male,Human Resources,4,No
+34,No,Travel_Rarely,Human Resources,Male,Human Resources,0,No
+28,No,Travel_Rarely,Human Resources,Male,Human Resources,1,No
+36,No,Travel_Rarely,Human Resources,Male,Human Resources,0,No
+39,No,Travel_Rarely,Human Resources,Female,Human Resources,8,No
+33,No,Travel_Rarely,Human Resources,Male,Human Resources,3,Yes
+45,No,Travel_Rarely,Human Resources,Male,Human Resources,1,No
+44,Yes,Travel_Rarely,Human Resources,Male,Human Resources,9,No
+38,No,Travel_Rarely,Human Resources,Male,Human Resources,1,No
+35,No,Travel_Rarely,Human Resources,Male,Human Resources,1,No
+33,No,Travel_Rarely,Human Resources,Male,Human Resources,1,No
+42,No,Non-Travel,Human Resources,Male,Human Resources,7,No
+34,No,Travel_Frequently,Human Resources,Male,Human Resources,4,No
+46,No,Travel_Rarely,Human Resources,Female,Human Resources,6,No
+56,No,Travel_Rarely,Human Resources,Male,Manager,6,No
+51,No,Travel_Rarely,Human Resources,Male,Manager,1,Yes
+42,No,Travel_Rarely,Human Resources,Female,Manager,0,No
+29,No,Travel_Rarely,Human Resources,Male,Human Resources,1,No
+31,No,Travel_Rarely,Human Resources,Female,Human Resources,9,No
+34,Yes,Travel_Rarely,Human Resources,Female,Human Resources,1,No
+30,No,Travel_Rarely,Human Resources,Male,Human Resources,0,No
+40,No,Travel_Rarely,Human Resources,Male,Manager,1,Yes
+38,No,Travel_Frequently,Human Resources,Male,Human Resources,3,No
+47,No,Travel_Rarely,Human Resources,Female,Manager,3,No
+44,No,Travel_Frequently,Human Resources,Male,Human Resources,4,Yes
+44,No,Travel_Rarely,Human Resources,Female,Human Resources,4,Yes
+24,Yes,Travel_Rarely,Human Resources,Male,Human Resources,1,No
+41,No,Non-Travel,Human Resources,Male,Human Resources,6,No
+45,No,Travel_Rarely,Human Resources,Female,Human Resources,4,No
+24,No,Travel_Frequently,Human Resources,Male,Human Resources,0,No
+30,Yes,Travel_Frequently,Human Resources,Female,Human Resources,6,No
+43,No,Travel_Rarely,Human Resources,Male,Human Resources,0,No
+37,No,Travel_Rarely,Human Resources,Male,Human Resources,2,No
+38,No,Non-Travel,Human Resources,Male,Human Resources,5,No
+26,Yes,Travel_Rarely,Human Resources,Female,Human Resources,0,Yes
+31,Yes,Travel_Rarely,Human Resources,Male,Human Resources,0,No
+29,Yes,Travel_Rarely,Human Resources,Male,Human Resources,4,Yes
+28,No,Non-Travel,Human Resources,Male,Human Resources,1,No
+29,No,Travel_Rarely,Human Resources,Male,Human Resources,1,No
+36,No,Travel_Frequently,Human Resources,Male,Human Resources,1,No
+27,Yes,Travel_Frequently,Human Resources,Female,Human Resources,1,No
+38,No,Travel_Frequently,Human Resources,Male,Human Resources,0,Yes
+55,No,Travel_Rarely,Human Resources,Male,Manager,4,Yes
+25,No,Travel_Rarely,Human Resources,Female,Human Resources,4,No
+35,No,Travel_Rarely,Human Resources,Female,Human Resources,1,Yes
+49,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,No
+37,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,6,Yes
+33,No,Travel_Frequently,Research & Development,Female,Research Scientist,1,Yes
+27,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,9,No
+32,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,0,No
+59,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,4,Yes
+30,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+38,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,0,No
+36,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,6,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+29,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,0,Yes
+31,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+34,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+28,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,5,Yes
+29,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+32,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,Yes
+22,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,Yes
+38,No,Travel_Rarely,Research & Development,Male,Research Scientist,5,Yes
+24,No,Non-Travel,Research & Development,Female,Manufacturing Director,0,No
+34,No,Travel_Rarely,Research & Development,Female,Research Director,0,No
+21,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+34,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+53,No,Travel_Rarely,Research & Development,Female,Manager,4,No
+32,Yes,Travel_Frequently,Research & Development,Female,Research Scientist,1,Yes
+44,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,3,No
+33,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+44,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,2,Yes
+30,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+24,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,2,Yes
+43,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+36,No,Travel_Rarely,Research & Development,Female,Research Scientist,9,Yes
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+27,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+26,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+30,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+41,Yes,Travel_Rarely,Research & Development,Female,Research Director,1,No
+37,No,Travel_Rarely,Research & Development,Male,Research Scientist,4,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+48,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,9,Yes
+28,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+35,No,Non-Travel,Research & Development,Male,Healthcare Representative,2,Yes
+33,No,Travel_Frequently,Research & Development,Female,Research Director,1,Yes
+35,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,3,Yes
+31,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,No
+37,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+32,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,Yes
+38,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+50,No,Travel_Rarely,Research & Development,Female,Research Director,5,Yes
+36,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,No
+55,No,Travel_Rarely,Research & Development,Female,Manager,2,Yes
+36,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,1,No
+45,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+35,No,Travel_Frequently,Research & Development,Male,Research Scientist,4,No
+36,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,0,Yes
+29,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+31,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+32,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+36,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,3,No
+31,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+45,No,Travel_Rarely,Research & Development,Male,Research Director,4,Yes
+37,No,Travel_Rarely,Research & Development,Male,Research Director,4,No
+30,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+35,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+38,No,Non-Travel,Research & Development,Female,Research Scientist,7,Yes
+34,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+56,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,4,No
+51,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,No
+30,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,1,No
+40,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,1,No
+46,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,2,Yes
+54,No,Travel_Rarely,Research & Development,Female,Research Director,9,No
+44,No,Non-Travel,Research & Development,Male,Laboratory Technician,4,No
+32,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+20,Yes,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,Yes
+34,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+37,No,Non-Travel,Research & Development,Male,Healthcare Representative,5,No
+50,No,Travel_Frequently,Research & Development,Female,Research Director,3,Yes
+25,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+22,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+51,No,Travel_Frequently,Research & Development,Female,Healthcare Representative,3,No
+34,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,Yes
+24,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+34,No,Travel_Rarely,Research & Development,Female,Research Scientist,6,No
+34,No,Travel_Rarely,Research & Development,Female,Manager,2,No
+36,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,5,No
+30,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,No
+56,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,9,Yes
+51,No,Travel_Rarely,Research & Development,Male,Research Director,7,No
+26,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+58,Yes,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,No
+22,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+49,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+43,No,Travel_Frequently,Research & Development,Female,Research Scientist,4,No
+36,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,6,No
+51,Yes,Travel_Frequently,Research & Development,Male,Manufacturing Director,2,No
+32,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,7,No
+45,No,Travel_Rarely,Research & Development,Male,Research Scientist,5,No
+38,No,Travel_Rarely,Research & Development,Female,Research Scientist,3,Yes
+30,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+30,No,Travel_Rarely,Research & Development,Female,Research Scientist,5,No
+30,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+41,No,Travel_Frequently,Research & Development,Male,Manager,4,No
+41,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,2,No
+19,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+40,No,Travel_Frequently,Research & Development,Female,Research Scientist,1,No
+45,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,8,No
+29,No,Non-Travel,Research & Development,Male,Manufacturing Director,1,No
+51,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,2,No
+58,No,Travel_Rarely,Research & Development,Female,Research Scientist,4,Yes
+22,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+27,No,Non-Travel,Research & Development,Male,Research Scientist,6,No
+28,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+57,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,3,Yes
+27,No,Non-Travel,Research & Development,Male,Research Scientist,1,Yes
+50,No,Travel_Rarely,Research & Development,Female,Manager,3,No
+41,No,Travel_Rarely,Research & Development,Male,Research Scientist,4,No
+32,No,Travel_Rarely,Research & Development,Male,Research Scientist,3,No
+27,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,Yes
+36,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,4,No
+30,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,No
+56,No,Travel_Rarely,Research & Development,Female,Research Scientist,4,Yes
+33,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+19,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+38,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+31,No,Travel_Rarely,Research & Development,Female,Research Scientist,8,Yes
+34,No,Travel_Rarely,Research & Development,Female,Research Scientist,2,No
+50,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,2,No
+53,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+33,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+40,No,Travel_Rarely,Research & Development,Female,Manager,1,No
+55,No,Travel_Rarely,Research & Development,Male,Research Director,8,No
+34,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,1,No
+51,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,3,No
+52,No,Travel_Rarely,Research & Development,Male,Manager,0,No
+27,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+35,Yes,Travel_Rarely,Research & Development,Male,Manufacturing Director,3,Yes
+43,No,Non-Travel,Research & Development,Male,Research Scientist,4,No
+45,No,Non-Travel,Research & Development,Male,Manager,9,No
+37,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+35,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,5,No
+42,No,Non-Travel,Research & Development,Female,Manufacturing Director,2,No
+38,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,9,No
+38,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,3,No
+27,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,5,No
+49,No,Non-Travel,Research & Development,Male,Manufacturing Director,1,Yes
+34,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,Yes
+40,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,8,Yes
+38,Yes,Travel_Rarely,Research & Development,Male,Healthcare Representative,7,Yes
+22,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+36,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+40,No,Non-Travel,Research & Development,Male,Healthcare Representative,9,No
+46,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,7,No
+30,No,Non-Travel,Research & Development,Male,Manufacturing Director,1,No
+51,No,Travel_Rarely,Research & Development,Male,Research Director,5,No
+30,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,5,Yes
+29,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+36,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,8,No
+33,No,Travel_Rarely,Research & Development,Female,Research Scientist,6,No
+37,No,Travel_Frequently,Research & Development,Male,Research Director,1,Yes
+31,No,Non-Travel,Research & Development,Male,Manufacturing Director,0,No
+59,No,Travel_Rarely,Research & Development,Male,Research Scientist,3,No
+29,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+52,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,7,No
+42,No,Travel_Rarely,Research & Development,Male,Manager,1,No
+33,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,5,Yes
+33,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,7,No
+32,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,Yes
+39,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,7,No
+41,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+40,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+45,No,Travel_Rarely,Research & Development,Male,Manager,0,No
+31,No,Travel_Frequently,Research & Development,Male,Research Director,9,No
+33,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+34,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,6,No
+37,No,Travel_Rarely,Research & Development,Female,Research Scientist,2,No
+45,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,4,No
+37,Yes,Travel_Frequently,Research & Development,Male,Manufacturing Director,6,No
+39,No,Travel_Frequently,Research & Development,Female,Healthcare Representative,0,No
+29,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+42,No,Travel_Rarely,Research & Development,Female,Research Scientist,3,Yes
+25,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,No
+42,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,0,Yes
+40,No,Travel_Rarely,Research & Development,Male,Research Director,0,No
+51,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+31,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,0,No
+32,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,No
+32,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+28,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,2,No
+31,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,0,No
+25,No,Non-Travel,Research & Development,Male,Healthcare Representative,1,No
+45,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,0,Yes
+36,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+55,No,Travel_Rarely,Research & Development,Male,Manager,0,Yes
+47,Yes,Non-Travel,Research & Development,Male,Manager,1,Yes
+28,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+21,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+37,No,Non-Travel,Research & Development,Female,Research Director,2,Yes
+35,No,Travel_Rarely,Research & Development,Female,Manager,7,No
+26,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,1,No
+50,No,Travel_Rarely,Research & Development,Male,Research Director,3,No
+53,No,Travel_Rarely,Research & Development,Male,Research Director,3,Yes
+55,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,Yes
+26,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,1,Yes
+37,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+44,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,3,Yes
+38,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,9,No
+26,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,2,Yes
+28,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+49,No,Travel_Frequently,Research & Development,Female,Research Director,9,Yes
+36,No,Travel_Rarely,Research & Development,Male,Research Scientist,4,No
+37,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,Yes
+18,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+36,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,4,No
+51,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,5,No
+28,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,0,No
+39,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,0,No
+36,No,Non-Travel,Research & Development,Female,Laboratory Technician,7,No
+38,No,Travel_Rarely,Research & Development,Female,Research Director,3,No
+58,No,Non-Travel,Research & Development,Male,Healthcare Representative,2,Yes
+31,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,Yes
+45,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,No
+31,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,Yes
+33,No,Travel_Frequently,Research & Development,Female,Manager,6,No
+39,No,Travel_Rarely,Research & Development,Male,Manager,1,Yes
+43,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,0,No
+49,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,7,Yes
+52,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+27,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,Yes
+32,No,Travel_Rarely,Research & Development,Female,Research Scientist,7,No
+28,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,5,Yes
+30,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+31,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,1,No
+39,No,Travel_Frequently,Research & Development,Male,Manager,1,No
+47,No,Travel_Rarely,Research & Development,Male,Research Director,4,No
+43,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+54,No,Travel_Frequently,Research & Development,Female,Research Scientist,3,No
+43,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,8,No
+45,No,Travel_Rarely,Research & Development,Male,Research Scientist,9,No
+29,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+29,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+37,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,7,No
+38,No,Travel_Rarely,Research & Development,Male,Research Director,0,Yes
+31,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,Yes
+35,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,0,No
+23,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+41,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,6,Yes
+42,No,Travel_Rarely,Research & Development,Female,Research Director,2,No
+32,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+37,No,Travel_Rarely,Research & Development,Male,Research Scientist,4,Yes
+42,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,3,No
+57,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,2,No
+40,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,3,Yes
+37,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,6,No
+46,No,Non-Travel,Research & Development,Female,Manufacturing Director,2,No
+50,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,6,No
+31,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,Yes
+29,No,Travel_Rarely,Research & Development,Male,Research Scientist,9,No
+35,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,9,No
+27,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+49,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,8,No
+36,No,Travel_Rarely,Research & Development,Female,Research Scientist,4,No
+55,No,Travel_Rarely,Research & Development,Female,Manager,2,Yes
+26,Yes,Travel_Frequently,Research & Development,Male,Research Scientist,0,No
+22,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+30,Yes,Travel_Frequently,Research & Development,Male,Research Scientist,9,Yes
+37,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+42,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,3,No
+37,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,2,Yes
+43,No,Travel_Rarely,Research & Development,Male,Research Director,1,No
+40,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,6,No
+54,No,Travel_Rarely,Research & Development,Male,Research Director,4,No
+31,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+43,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,7,No
+43,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,4,Yes
+37,No,Non-Travel,Research & Development,Female,Research Scientist,3,Yes
+31,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+39,No,Travel_Frequently,Research & Development,Male,Manager,1,Yes
+28,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+25,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,5,No
+52,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,2,Yes
+45,No,Travel_Rarely,Research & Development,Male,Research Scientist,3,No
+52,No,Travel_Rarely,Research & Development,Female,Manager,2,No
+42,No,Travel_Frequently,Research & Development,Female,Research Scientist,2,No
+30,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,2,No
+60,No,Travel_Rarely,Research & Development,Female,Manager,5,No
+46,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,2,No
+42,No,Travel_Frequently,Research & Development,Female,Healthcare Representative,0,No
+38,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,Yes
+26,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+30,No,Non-Travel,Research & Development,Male,Laboratory Technician,4,No
+29,No,Travel_Rarely,Research & Development,Male,Research Director,1,No
+29,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,5,No
+50,No,Travel_Rarely,Research & Development,Male,Manager,0,No
+30,No,Non-Travel,Research & Development,Female,Laboratory Technician,0,No
+47,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,5,No
+46,No,Travel_Rarely,Research & Development,Male,Research Director,6,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+54,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,7,No
+34,No,Travel_Rarely,Research & Development,Male,Research Scientist,3,No
+31,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+33,Yes,Travel_Rarely,Research & Development,Male,Manager,7,Yes
+33,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,7,No
+35,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,4,Yes
+31,Yes,Travel_Frequently,Research & Development,Male,Healthcare Representative,3,No
+42,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,4,No
+22,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,5,No
+40,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,7,No
+39,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+42,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,Yes
+29,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,4,No
+33,No,Travel_Rarely,Research & Development,Female,Research Director,4,No
+41,No,Non-Travel,Research & Development,Female,Healthcare Representative,2,Yes
+26,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+37,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,4,No
+46,No,Travel_Frequently,Research & Development,Female,Healthcare Representative,5,No
+52,No,Travel_Rarely,Research & Development,Male,Research Scientist,3,Yes
+38,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,3,No
+37,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,6,No
+49,No,Travel_Rarely,Research & Development,Male,Research Director,1,Yes
+24,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+24,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+24,Yes,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,Yes
+34,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+27,No,Travel_Rarely,Research & Development,Female,Research Scientist,0,No
+20,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+42,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,No
+43,No,Travel_Rarely,Research & Development,Male,Research Director,4,Yes
+38,No,Travel_Rarely,Research & Development,Female,Research Scientist,3,No
+43,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,3,Yes
+48,No,Travel_Rarely,Research & Development,Female,Manager,7,No
+44,No,Travel_Rarely,Research & Development,Male,Manager,4,Yes
+22,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+32,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,Yes
+30,No,Travel_Frequently,Research & Development,Female,Research Scientist,1,No
+34,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+26,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,Yes
+37,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+35,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+33,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,3,No
+36,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,2,Yes
+27,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+20,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+33,Yes,Travel_Frequently,Research & Development,Male,Research Scientist,1,Yes
+35,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,No
+23,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+29,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,No
+37,No,Travel_Rarely,Research & Development,Male,Research Scientist,3,No
+50,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+34,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,No
+39,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,No
+38,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,0,No
+27,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+32,No,Travel_Rarely,Research & Development,Female,Research Director,3,No
+53,No,Travel_Rarely,Research & Development,Male,Research Director,3,No
+27,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,1,No
+28,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,7,Yes
+36,No,Non-Travel,Research & Development,Female,Research Director,9,No
+38,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,4,Yes
+44,No,Non-Travel,Research & Development,Male,Laboratory Technician,2,No
+42,Yes,Travel_Frequently,Research & Development,Male,Research Scientist,6,Yes
+34,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,3,No
+23,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+56,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,7,No
+40,No,Travel_Rarely,Research & Development,Female,Research Scientist,0,Yes
+27,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,8,No
+53,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,2,No
+35,No,Non-Travel,Research & Development,Female,Healthcare Representative,2,No
+32,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,No
+38,No,Travel_Rarely,Research & Development,Male,Research Scientist,6,Yes
+34,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,3,No
+33,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+23,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+55,Yes,Travel_Rarely,Research & Development,Male,Manager,5,Yes
+52,No,Non-Travel,Research & Development,Male,Research Scientist,0,No
+26,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,3,No
+29,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,4,No
+34,No,Travel_Rarely,Research & Development,Female,Research Scientist,2,No
+54,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,9,Yes
+37,No,Travel_Rarely,Research & Development,Female,Research Scientist,0,Yes
+38,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,6,Yes
+34,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+30,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,No
+40,No,Travel_Frequently,Research & Development,Female,Healthcare Representative,1,No
+42,No,Travel_Frequently,Research & Development,Male,Manager,1,No
+23,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+24,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,No
+52,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,8,No
+50,No,Travel_Rarely,Research & Development,Male,Research Director,5,No
+29,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,Yes
+33,No,Travel_Rarely,Research & Development,Male,Research Director,0,No
+47,No,Travel_Rarely,Research & Development,Female,Manager,1,Yes
+36,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,No
+29,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+58,Yes,Travel_Rarely,Research & Development,Male,Research Director,7,Yes
+35,No,Travel_Rarely,Research & Development,Female,Research Scientist,3,No
+42,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,9,Yes
+28,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,6,No
+32,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+40,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,6,No
+30,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,5,Yes
+45,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+42,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+38,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,2,No
+34,No,Travel_Frequently,Research & Development,Female,Research Scientist,1,No
+43,No,Travel_Rarely,Research & Development,Male,Research Director,6,No
+27,No,Travel_Rarely,Research & Development,Male,Research Director,1,Yes
+35,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,3,No
+26,Yes,Travel_Frequently,Research & Development,Female,Research Scientist,1,Yes
+27,No,Non-Travel,Research & Development,Male,Research Scientist,1,No
+44,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,9,No
+25,No,Travel_Rarely,Research & Development,Male,Research Scientist,7,No
+35,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+30,No,Travel_Frequently,Research & Development,Male,Research Scientist,9,No
+32,No,Travel_Rarely,Research & Development,Female,Research Scientist,5,No
+52,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,3,No
+22,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,6,No
+44,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,2,Yes
+42,No,Travel_Frequently,Research & Development,Male,Research Scientist,5,Yes
+35,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,Yes
+35,Yes,Travel_Frequently,Research & Development,Female,Research Scientist,1,Yes
+32,No,Non-Travel,Research & Development,Male,Laboratory Technician,0,No
+49,No,Travel_Rarely,Research & Development,Female,Research Scientist,2,No
+24,No,Non-Travel,Research & Development,Male,Laboratory Technician,0,No
+42,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,2,Yes
+31,No,Travel_Rarely,Research & Development,Male,Research Scientist,3,Yes
+35,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,3,No
+53,No,Travel_Rarely,Research & Development,Female,Research Director,6,No
+43,No,Travel_Frequently,Research & Development,Female,Healthcare Representative,4,No
+50,No,Non-Travel,Research & Development,Male,Manager,1,No
+32,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+29,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,6,No
+44,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+58,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,9,Yes
+43,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,4,No
+21,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+36,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,0,Yes
+22,Yes,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,Yes
+41,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,4,Yes
+28,No,Travel_Rarely,Research & Development,Female,Research Scientist,5,No
+39,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,7,Yes
+27,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+34,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+33,No,Travel_Rarely,Research & Development,Male,Research Scientist,3,Yes
+58,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,2,Yes
+35,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,Yes
+49,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,4,No
+48,No,Travel_Rarely,Research & Development,Male,Research Scientist,4,No
+36,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+38,No,Travel_Rarely,Research & Development,Female,Research Director,1,No
+32,No,Non-Travel,Research & Development,Female,Laboratory Technician,6,No
+41,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,2,Yes
+36,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+20,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+31,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,0,Yes
+40,No,Travel_Frequently,Research & Development,Male,Research Scientist,8,Yes
+32,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+33,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,0,No
+45,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,No
+52,No,Travel_Rarely,Research & Development,Male,Manager,2,No
+58,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,4,No
+47,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,1,Yes
+31,Yes,Non-Travel,Research & Development,Male,Research Scientist,0,Yes
+29,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,6,Yes
+33,No,Travel_Rarely,Research & Development,Female,Research Scientist,3,No
+45,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,3,No
+50,No,Travel_Rarely,Research & Development,Male,Research Director,9,No
+33,No,Travel_Frequently,Research & Development,Female,Healthcare Representative,1,Yes
+41,No,Travel_Frequently,Research & Development,Male,Research Director,2,No
+27,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,9,No
+45,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,Yes
+30,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,4,Yes
+50,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,3,Yes
+38,No,Travel_Frequently,Research & Development,Male,Research Scientist,0,No
+46,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,6,No
+24,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+35,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+31,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,1,No
+18,No,Non-Travel,Research & Development,Male,Research Scientist,1,No
+54,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,8,No
+35,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,Yes
+30,No,Travel_Rarely,Research & Development,Female,Research Director,0,Yes
+20,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,1,Yes
+30,Yes,Travel_Frequently,Research & Development,Female,Laboratory Technician,0,No
+26,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+22,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+48,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,2,No
+48,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,7,No
+41,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,6,No
+39,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+27,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+50,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+59,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,3,Yes
+37,Yes,Travel_Rarely,Research & Development,Female,Healthcare Representative,5,No
+55,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,3,Yes
+41,No,Non-Travel,Research & Development,Female,Research Director,1,No
+36,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+39,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,1,Yes
+32,No,Non-Travel,Research & Development,Female,Laboratory Technician,9,No
+36,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,7,No
+26,Yes,Travel_Frequently,Research & Development,Male,Research Scientist,6,Yes
+38,No,Travel_Frequently,Research & Development,Male,Research Scientist,3,No
+50,No,Travel_Rarely,Research & Development,Male,Research Director,2,Yes
+37,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,3,No
+26,No,Travel_Frequently,Research & Development,Female,Research Scientist,1,No
+46,No,Travel_Rarely,Research & Development,Male,Research Director,9,No
+56,No,Travel_Frequently,Research & Development,Female,Research Scientist,2,No
+36,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,No
+55,No,Non-Travel,Research & Development,Male,Manager,7,No
+21,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+46,No,Travel_Rarely,Research & Development,Female,Research Scientist,8,Yes
+51,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,9,Yes
+28,Yes,Non-Travel,Research & Development,Male,Healthcare Representative,1,No
+26,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+30,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,0,No
+41,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+38,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,0,No
+40,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,4,No
+27,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,No
+55,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,3,No
+28,No,Travel_Rarely,Research & Development,Female,Research Scientist,3,No
+33,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,4,No
+33,Yes,Travel_Frequently,Research & Development,Female,Research Scientist,1,No
+28,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+34,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,0,No
+25,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+26,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+33,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,4,Yes
+42,No,Travel_Rarely,Research & Development,Male,Manager,0,No
+28,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,No
+34,No,Non-Travel,Research & Development,Male,Research Scientist,3,No
+48,No,Non-Travel,Research & Development,Male,Manager,2,No
+52,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,7,No
+29,No,Travel_Rarely,Research & Development,Female,Research Scientist,4,No
+28,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,No
+43,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,8,No
+39,Yes,Travel_Frequently,Research & Development,Male,Healthcare Representative,7,No
+40,No,Travel_Rarely,Research & Development,Male,Research Director,1,No
+21,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,Yes
+39,No,Non-Travel,Research & Development,Male,Laboratory Technician,9,No
+36,No,Non-Travel,Research & Development,Male,Manufacturing Director,2,No
+28,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+34,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,2,No
+29,No,Travel_Frequently,Research & Development,Female,Research Scientist,0,No
+42,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+29,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,Yes
+28,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,Yes
+18,Yes,Non-Travel,Research & Development,Male,Laboratory Technician,1,No
+41,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,Yes
+31,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,No
+37,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,7,No
+27,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+40,No,Travel_Frequently,Research & Development,Female,Research Director,9,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,6,No
+24,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,8,No
+28,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,Yes
+26,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+40,No,Travel_Frequently,Research & Development,Female,Research Scientist,3,Yes
+35,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,2,No
+34,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,0,No
+35,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,No
+56,No,Travel_Rarely,Research & Development,Female,Manager,4,No
+29,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+19,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+45,No,Travel_Rarely,Research & Development,Female,Research Scientist,4,Yes
+37,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+20,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+44,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+53,No,Travel_Rarely,Research & Development,Female,Manager,3,No
+29,No,Travel_Rarely,Research & Development,Female,Research Scientist,0,Yes
+22,Yes,Travel_Frequently,Research & Development,Male,Research Scientist,0,Yes
+44,No,Non-Travel,Research & Development,Male,Research Scientist,2,No
+41,Yes,Non-Travel,Research & Development,Male,Research Scientist,6,No
+50,No,Travel_Frequently,Research & Development,Female,Manager,2,No
+28,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+46,No,Travel_Rarely,Research & Development,Male,Research Director,5,No
+24,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+36,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+30,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+44,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+46,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,2,No
+32,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+32,No,Travel_Frequently,Research & Development,Female,Research Scientist,4,Yes
+36,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,2,Yes
+33,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+30,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,Yes
+42,No,Travel_Frequently,Research & Development,Female,Research Director,3,Yes
+27,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+54,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,7,No
+44,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+19,Yes,Non-Travel,Research & Development,Female,Research Scientist,1,Yes
+29,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+54,No,Travel_Rarely,Research & Development,Male,Research Director,3,No
+31,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,1,Yes
+31,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,No
+43,No,Travel_Rarely,Research & Development,Male,Research Director,3,No
+49,No,Travel_Rarely,Research & Development,Male,Manager,2,No
+36,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,No
+48,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,5,No
+27,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+29,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,1,Yes
+48,No,Travel_Rarely,Research & Development,Male,Research Director,6,No
+29,No,Travel_Rarely,Research & Development,Female,Research Director,3,No
+34,No,Travel_Rarely,Research & Development,Female,Research Scientist,0,No
+19,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,Yes
+23,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+26,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+55,No,Non-Travel,Research & Development,Male,Healthcare Representative,1,Yes
+21,Yes,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+59,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,6,No
+34,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,4,No
+28,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,0,Yes
+44,No,Travel_Rarely,Research & Development,Male,Manager,1,No
+35,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,Yes
+42,No,Travel_Rarely,Research & Development,Female,Research Scientist,6,Yes
+36,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,9,Yes
+44,Yes,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,No
+28,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,Yes
+51,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,0,No
+30,No,Non-Travel,Research & Development,Female,Manufacturing Director,7,Yes
+29,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,3,Yes
+28,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+25,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+45,No,Travel_Frequently,Research & Development,Female,Manager,3,No
+39,No,Travel_Rarely,Research & Development,Female,Manager,6,Yes
+58,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+32,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+39,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+30,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,0,No
+36,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,3,No
+28,No,Non-Travel,Research & Development,Female,Laboratory Technician,0,No
+50,No,Travel_Rarely,Research & Development,Female,Research Director,4,Yes
+30,No,Travel_Rarely,Research & Development,Female,Manager,1,Yes
+39,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,0,No
+44,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+42,No,Non-Travel,Research & Development,Male,Manager,0,Yes
+55,No,Travel_Rarely,Research & Development,Female,Manager,4,No
+40,No,Non-Travel,Research & Development,Male,Research Scientist,9,No
+34,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,0,No
+40,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+35,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,Yes
+25,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,No
+58,Yes,Travel_Rarely,Research & Development,Female,Manufacturing Director,7,Yes
+40,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,No
+48,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+51,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,3,No
+18,No,Non-Travel,Research & Development,Female,Laboratory Technician,1,No
+35,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,0,No
+56,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,4,Yes
+34,No,Non-Travel,Research & Development,Female,Research Scientist,1,No
+40,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,5,No
+34,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+38,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,No
+34,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,No
+31,Yes,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,Yes
+41,No,Travel_Frequently,Research & Development,Female,Research Scientist,3,Yes
+37,No,Travel_Rarely,Research & Development,Male,Research Scientist,7,Yes
+39,No,Non-Travel,Research & Development,Male,Healthcare Representative,3,No
+52,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,2,Yes
+43,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,Yes
+27,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,1,Yes
+26,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+52,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,9,No
+37,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,4,No
+35,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,2,No
+25,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+26,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+49,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,3,No
+29,Yes,Travel_Frequently,Research & Development,Female,Healthcare Representative,0,Yes
+54,No,Travel_Rarely,Research & Development,Female,Research Director,6,No
+58,No,Travel_Rarely,Research & Development,Female,Research Director,3,Yes
+55,No,Travel_Rarely,Research & Development,Male,Research Director,2,No
+31,No,Travel_Rarely,Research & Development,Female,Research Director,3,No
+34,No,Travel_Frequently,Research & Development,Male,Research Scientist,5,No
+31,Yes,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+27,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+36,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+47,No,Travel_Rarely,Research & Development,Male,Research Scientist,7,No
+37,No,Non-Travel,Research & Development,Male,Laboratory Technician,0,No
+56,No,Travel_Rarely,Research & Development,Female,Research Scientist,2,No
+47,No,Travel_Rarely,Research & Development,Female,Research Director,3,No
+34,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,5,No
+41,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,Yes
+40,No,Non-Travel,Research & Development,Male,Laboratory Technician,3,No
+39,Yes,Non-Travel,Research & Development,Female,Laboratory Technician,2,Yes
+31,Yes,Travel_Frequently,Research & Development,Female,Manufacturing Director,1,No
+45,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,2,Yes
+31,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,6,Yes
+45,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,4,Yes
+40,No,Non-Travel,Research & Development,Male,Research Director,2,No
+44,No,Non-Travel,Research & Development,Male,Laboratory Technician,3,No
+53,No,Travel_Rarely,Research & Development,Male,Research Director,4,No
+49,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,2,No
+40,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+44,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+42,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+30,No,Non-Travel,Research & Development,Male,Research Scientist,1,No
+57,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+49,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,3,No
+34,No,Travel_Frequently,Research & Development,Male,Research Director,7,No
+24,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,2,Yes
+44,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,5,Yes
+55,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,0,Yes
+33,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,8,No
+28,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,7,No
+28,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+49,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,4,No
+29,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,0,No
+28,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+33,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,2,Yes
+32,No,Travel_Rarely,Research & Development,Male,Manager,2,No
+54,No,Travel_Frequently,Research & Development,Female,Manager,3,No
+29,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,6,No
+44,No,Travel_Rarely,Research & Development,Male,Research Director,3,No
+39,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,4,No
+35,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,No
+23,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+40,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,No
+31,Yes,Travel_Frequently,Research & Development,Female,Research Scientist,1,No
+50,No,Travel_Frequently,Research & Development,Male,Research Director,1,Yes
+42,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+37,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+29,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,3,No
+33,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+45,No,Travel_Rarely,Research & Development,Male,Research Scientist,4,No
+42,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,2,Yes
+33,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+24,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+40,No,Non-Travel,Research & Development,Male,Healthcare Representative,3,Yes
+45,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,1,No
+32,No,Travel_Rarely,Research & Development,Female,Research Scientist,3,No
+29,No,Travel_Rarely,Research & Development,Male,Research Scientist,6,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+35,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,Yes
+53,Yes,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,No
+38,Yes,Travel_Rarely,Research & Development,Male,Manufacturing Director,4,No
+32,No,Non-Travel,Research & Development,Male,Research Scientist,4,No
+48,No,Travel_Rarely,Research & Development,Female,Research Scientist,8,No
+34,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+34,No,Travel_Rarely,Research & Development,Male,Research Scientist,9,No
+26,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+29,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+35,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,3,Yes
+29,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,1,No
+23,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+36,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,3,Yes
+42,No,Travel_Rarely,Research & Development,Male,Manager,8,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+34,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,1,No
+43,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,5,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+28,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+22,No,Non-Travel,Research & Development,Female,Research Scientist,1,Yes
+50,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,2,Yes
+32,No,Travel_Rarely,Research & Development,Female,Research Scientist,3,No
+44,No,Travel_Rarely,Research & Development,Female,Research Director,0,Yes
+30,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+45,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,Yes
+36,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,9,Yes
+34,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,1,No
+49,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+39,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,2,No
+27,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+35,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+28,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,No
+21,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+39,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+40,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+35,No,Non-Travel,Research & Development,Female,Healthcare Representative,1,No
+37,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,3,No
+39,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,0,No
+45,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,1,No
+38,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,3,Yes
+37,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+40,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,6,Yes
+48,No,Travel_Frequently,Research & Development,Male,Manager,2,No
+24,No,Travel_Frequently,Research & Development,Female,Research Scientist,1,Yes
+27,No,Travel_Rarely,Research & Development,Female,Research Scientist,7,No
+27,No,Travel_Frequently,Research & Development,Male,Research Scientist,2,No
+40,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,Yes
+36,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,4,No
+25,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,1,No
+39,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,4,No
+49,No,Travel_Rarely,Research & Development,Female,Research Director,3,No
+50,No,Travel_Rarely,Research & Development,Female,Research Director,5,No
+34,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+36,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,2,No
+49,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,2,Yes
+36,No,Non-Travel,Research & Development,Female,Manufacturing Director,0,No
+36,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,6,No
+54,No,Travel_Rarely,Research & Development,Female,Manager,3,No
+43,No,Travel_Rarely,Research & Development,Male,Research Director,1,No
+38,No,Travel_Frequently,Research & Development,Male,Research Scientist,7,No
+32,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+49,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,4,Yes
+38,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+49,No,Travel_Rarely,Research & Development,Male,Manager,4,No
+36,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,6,No
+23,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,Yes
+38,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,7,No
+53,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,3,No
+32,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+26,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,No
+55,No,Travel_Rarely,Research & Development,Male,Research Scientist,5,No
+34,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+60,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,3,No
+33,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+34,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+44,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,1,Yes
+35,No,Travel_Frequently,Research & Development,Male,Research Scientist,0,Yes
+24,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+29,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,9,No
+45,No,Non-Travel,Research & Development,Male,Healthcare Representative,3,No
+26,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+45,No,Travel_Rarely,Research & Development,Female,Research Director,1,No
+32,No,Travel_Frequently,Research & Development,Male,Research Scientist,6,No
+31,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+40,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,2,Yes
+24,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+46,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,6,No
+35,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,2,No
+30,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+23,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+31,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,2,No
+39,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,Yes
+30,No,Travel_Frequently,Research & Development,Female,Research Scientist,0,No
+27,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+29,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,8,Yes
+34,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,Yes
+38,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,4,No
+29,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+30,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,3,No
+32,No,Non-Travel,Research & Development,Male,Research Scientist,2,No
+38,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,3,Yes
+43,Yes,Travel_Frequently,Research & Development,Male,Research Scientist,9,Yes
+42,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,8,No
+55,No,Travel_Rarely,Research & Development,Male,Research Director,8,No
+33,No,Non-Travel,Research & Development,Male,Research Scientist,5,No
+41,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+53,No,Non-Travel,Research & Development,Female,Manufacturing Director,4,Yes
+38,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+22,Yes,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,Yes
+51,No,Travel_Rarely,Research & Development,Female,Manager,2,No
+46,No,Travel_Rarely,Research & Development,Male,Research Director,7,Yes
+36,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,7,Yes
+44,Yes,Travel_Frequently,Research & Development,Male,Research Scientist,1,Yes
+33,No,Travel_Rarely,Research & Development,Male,Research Scientist,6,No
+28,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+39,No,Travel_Rarely,Research & Development,Male,Research Director,7,No
+40,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,4,No
+42,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,5,No
+35,No,Non-Travel,Research & Development,Male,Manufacturing Director,2,No
+34,Yes,Travel_Frequently,Research & Development,Male,Laboratory Technician,4,No
+37,Yes,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+43,No,Non-Travel,Research & Development,Male,Research Scientist,4,No
+41,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,3,No
+30,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,9,No
+46,Yes,Travel_Rarely,Research & Development,Female,Healthcare Representative,4,No
+40,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,4,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+47,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,8,Yes
+40,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,2,No
+54,No,Travel_Rarely,Research & Development,Female,Research Scientist,4,No
+28,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+58,No,Travel_Frequently,Research & Development,Male,Research Director,2,Yes
+18,No,Non-Travel,Research & Development,Female,Research Scientist,1,No
+36,No,Travel_Rarely,Research & Development,Female,Research Scientist,4,Yes
+27,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,0,Yes
+29,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,1,No
+42,No,Non-Travel,Research & Development,Male,Research Scientist,3,No
+47,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,4,No
+46,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,3,No
+29,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,8,No
+42,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,No
+43,No,Travel_Rarely,Research & Development,Female,Manager,7,No
+48,No,Travel_Rarely,Research & Development,Male,Research Director,4,No
+29,Yes,Travel_Frequently,Research & Development,Male,Research Scientist,1,Yes
+27,No,Travel_Frequently,Research & Development,Female,Research Scientist,0,No
+39,No,Travel_Rarely,Research & Development,Male,Research Scientist,8,No
+55,No,Travel_Rarely,Research & Development,Male,Research Scientist,8,No
+22,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,1,Yes
+31,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+29,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,3,No
+37,No,Travel_Rarely,Research & Development,Male,Research Scientist,5,Yes
+35,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,Yes
+45,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,No
+40,No,Travel_Rarely,Research & Development,Male,Manager,2,No
+26,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,Yes
+48,No,Travel_Frequently,Research & Development,Female,Manager,3,No
+44,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,2,No
+34,Yes,Non-Travel,Research & Development,Male,Research Scientist,1,Yes
+56,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+42,No,Travel_Rarely,Research & Development,Male,Research Director,9,No
+31,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,8,No
+26,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,0,No
+45,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,4,No
+27,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+34,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,Yes
+47,No,Non-Travel,Research & Development,Male,Research Scientist,8,No
+39,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,No
+38,No,Travel_Frequently,Research & Development,Female,Research Scientist,1,Yes
+32,Yes,Travel_Frequently,Research & Development,Female,Research Scientist,3,Yes
+38,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+49,No,Travel_Frequently,Research & Development,Male,Research Director,3,No
+28,No,Non-Travel,Research & Development,Male,Research Scientist,1,No
+31,No,Non-Travel,Research & Development,Male,Research Scientist,1,Yes
+36,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,No
+26,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,0,No
+29,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,0,No
+32,No,Non-Travel,Research & Development,Female,Healthcare Representative,5,No
+31,No,Travel_Frequently,Research & Development,Male,Research Scientist,1,No
+28,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,5,No
+32,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,8,No
+54,No,Travel_Rarely,Research & Development,Female,Research Scientist,3,No
+33,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,1,No
+43,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,1,No
+31,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,Yes
+42,No,Non-Travel,Research & Development,Male,Research Scientist,1,No
+31,No,Non-Travel,Research & Development,Female,Research Director,4,No
+54,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,6,Yes
+24,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,1,No
+23,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+40,No,Travel_Frequently,Research & Development,Female,Laboratory Technician,1,No
+30,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,1,No
+25,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,6,Yes
+47,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,2,No
+33,No,Non-Travel,Research & Development,Male,Laboratory Technician,1,No
+38,No,Travel_Frequently,Research & Development,Male,Manufacturing Director,2,No
+42,No,Travel_Rarely,Research & Development,Male,Research Scientist,6,Yes
+41,No,Travel_Rarely,Research & Development,Male,Research Scientist,3,No
+47,No,Non-Travel,Research & Development,Female,Research Director,0,No
+35,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,7,Yes
+22,No,Travel_Rarely,Research & Development,Male,Research Scientist,0,No
+35,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+33,No,Travel_Rarely,Research & Development,Female,Healthcare Representative,0,Yes
+32,No,Travel_Rarely,Research & Development,Female,Laboratory Technician,1,No
+40,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,8,No
+39,No,Travel_Rarely,Research & Development,Male,Research Scientist,7,No
+38,No,Travel_Rarely,Research & Development,Female,Research Director,3,No
+37,No,Travel_Rarely,Research & Development,Female,Research Director,1,Yes
+44,No,Travel_Rarely,Research & Development,Male,Research Scientist,6,Yes
+39,No,Non-Travel,Research & Development,Male,Manager,2,No
+36,No,Travel_Frequently,Research & Development,Female,Manufacturing Director,7,No
+56,No,Non-Travel,Research & Development,Male,Healthcare Representative,1,No
+29,Yes,Travel_Rarely,Research & Development,Male,Research Scientist,9,Yes
+42,No,Travel_Rarely,Research & Development,Male,Manager,5,No
+56,Yes,Travel_Rarely,Research & Development,Male,Laboratory Technician,8,No
+41,No,Travel_Rarely,Research & Development,Female,Manufacturing Director,0,No
+32,No,Travel_Rarely,Research & Development,Male,Research Scientist,1,No
+40,No,Travel_Rarely,Research & Development,Male,Research Scientist,2,No
+35,No,Travel_Frequently,Research & Development,Male,Healthcare Representative,1,Yes
+40,No,Travel_Rarely,Research & Development,Female,Research Scientist,2,No
+35,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+29,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,4,Yes
+29,No,Travel_Rarely,Research & Development,Female,Research Scientist,1,No
+31,No,Non-Travel,Research & Development,Male,Manufacturing Director,0,No
+36,No,Travel_Frequently,Research & Development,Male,Laboratory Technician,4,No
+39,No,Travel_Rarely,Research & Development,Male,Healthcare Representative,4,No
+27,No,Travel_Rarely,Research & Development,Male,Manufacturing Director,1,Yes
+34,No,Travel_Rarely,Research & Development,Male,Laboratory Technician,2,No
+41,Yes,Travel_Rarely,Sales,Female,Sales Executive,8,Yes
+53,No,Travel_Rarely,Sales,Female,Manager,2,No
+36,Yes,Travel_Rarely,Sales,Male,Sales Representative,7,No
+42,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+46,No,Travel_Rarely,Sales,Female,Manager,3,No
+39,Yes,Travel_Rarely,Sales,Male,Sales Representative,3,No
+50,Yes,Travel_Rarely,Sales,Male,Sales Representative,1,Yes
+35,No,Travel_Rarely,Sales,Female,Sales Representative,1,No
+33,No,Travel_Frequently,Sales,Female,Sales Executive,2,No
+27,No,Travel_Frequently,Sales,Male,Sales Executive,1,No
+34,No,Non-Travel,Sales,Male,Sales Executive,0,No
+46,No,Travel_Frequently,Sales,Male,Sales Executive,4,Yes
+44,No,Travel_Rarely,Sales,Female,Sales Executive,5,Yes
+26,No,Travel_Rarely,Sales,Female,Sales Executive,7,Yes
+35,No,Travel_Frequently,Sales,Male,Sales Executive,1,No
+59,No,Travel_Rarely,Sales,Female,Sales Executive,7,No
+59,No,Travel_Frequently,Sales,Female,Sales Executive,7,No
+35,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+55,No,Travel_Rarely,Sales,Male,Sales Executive,3,No
+23,No,Travel_Rarely,Sales,Male,Sales Representative,3,No
+46,Yes,Travel_Rarely,Sales,Male,Sales Executive,1,No
+51,No,Travel_Rarely,Sales,Male,Sales Executive,0,Yes
+30,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+32,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+24,No,Travel_Rarely,Sales,Female,Sales Executive,0,No
+28,No,Non-Travel,Sales,Male,Sales Executive,1,No
+58,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+25,Yes,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+37,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+36,No,Travel_Frequently,Sales,Female,Sales Executive,0,No
+43,No,Travel_Frequently,Sales,Male,Manager,1,Yes
+33,No,Non-Travel,Sales,Male,Sales Executive,0,No
+31,Yes,Travel_Rarely,Sales,Male,Sales Executive,4,Yes
+19,Yes,Travel_Rarely,Sales,Male,Sales Representative,1,Yes
+50,No,Travel_Frequently,Sales,Female,Sales Executive,4,No
+31,Yes,Travel_Rarely,Sales,Female,Sales Executive,3,Yes
+41,No,Travel_Rarely,Sales,Male,Sales Executive,3,Yes
+39,No,Travel_Rarely,Sales,Female,Sales Executive,4,No
+25,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+32,No,Travel_Frequently,Sales,Male,Sales Executive,0,No
+35,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+53,No,Travel_Rarely,Sales,Male,Sales Representative,2,Yes
+32,No,Travel_Frequently,Sales,Female,Sales Executive,1,No
+40,No,Travel_Rarely,Sales,Male,Sales Executive,7,No
+34,No,Travel_Frequently,Sales,Female,Sales Representative,6,No
+30,No,Travel_Rarely,Sales,Female,Sales Executive,2,No
+38,No,Travel_Rarely,Sales,Female,Sales Executive,4,No
+19,Yes,Travel_Frequently,Sales,Female,Sales Representative,0,No
+45,No,Travel_Rarely,Sales,Female,Sales Executive,4,Yes
+46,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+41,Yes,Travel_Rarely,Sales,Female,Sales Representative,1,Yes
+29,Yes,Travel_Rarely,Sales,Female,Sales Executive,1,No
+32,Yes,Travel_Rarely,Sales,Male,Sales Executive,1,No
+27,No,Travel_Frequently,Sales,Female,Sales Executive,1,No
+41,No,Travel_Rarely,Sales,Female,Manager,3,Yes
+30,Yes,Travel_Frequently,Sales,Female,Sales Executive,5,No
+45,No,Non-Travel,Sales,Female,Sales Executive,6,No
+54,No,Travel_Rarely,Sales,Female,Sales Executive,2,No
+38,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+37,No,Travel_Frequently,Sales,Male,Sales Representative,4,No
+29,No,Travel_Frequently,Sales,Female,Sales Executive,1,No
+35,No,Travel_Frequently,Sales,Female,Sales Executive,1,No
+50,No,Travel_Rarely,Sales,Female,Manager,3,No
+43,No,Travel_Rarely,Sales,Female,Manager,5,Yes
+52,No,Non-Travel,Sales,Male,Manager,1,Yes
+32,No,Travel_Rarely,Sales,Female,Sales Representative,2,No
+32,No,Non-Travel,Sales,Male,Sales Executive,0,No
+29,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+38,No,Non-Travel,Sales,Male,Sales Executive,3,No
+46,No,Travel_Rarely,Sales,Female,Manager,3,Yes
+29,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+37,No,Travel_Rarely,Sales,Male,Sales Executive,4,No
+38,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+42,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+29,No,Travel_Frequently,Sales,Male,Sales Executive,1,No
+31,No,Travel_Frequently,Sales,Female,Sales Representative,1,No
+26,Yes,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+42,No,Travel_Frequently,Sales,Female,Sales Executive,5,No
+35,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+41,No,Travel_Rarely,Sales,Male,Manager,1,No
+18,No,Travel_Rarely,Sales,Female,Sales Representative,1,No
+31,No,Travel_Rarely,Sales,Male,Sales Executive,4,No
+32,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+32,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+27,No,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+31,No,Travel_Rarely,Sales,Male,Sales Executive,4,No
+39,Yes,Travel_Rarely,Sales,Female,Sales Executive,4,Yes
+33,No,Travel_Frequently,Sales,Male,Sales Executive,3,No
+27,No,Non-Travel,Sales,Male,Sales Executive,0,Yes
+40,No,Travel_Rarely,Sales,Male,Sales Executive,2,Yes
+30,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+27,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+29,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+47,No,Travel_Frequently,Sales,Male,Sales Representative,3,No
+29,No,Non-Travel,Sales,Male,Sales Executive,1,No
+48,No,Travel_Rarely,Sales,Female,Manager,3,No
+30,No,Non-Travel,Sales,Female,Sales Executive,7,Yes
+26,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+21,Yes,Travel_Frequently,Sales,Female,Sales Representative,1,Yes
+36,No,Non-Travel,Sales,Female,Sales Executive,4,No
+36,No,Travel_Frequently,Sales,Male,Sales Executive,4,No
+21,No,Non-Travel,Sales,Male,Sales Representative,1,No
+33,Yes,Travel_Rarely,Sales,Female,Sales Representative,1,Yes
+41,Yes,Travel_Frequently,Sales,Male,Sales Executive,1,No
+40,Yes,Travel_Rarely,Sales,Male,Sales Executive,2,Yes
+21,Yes,Travel_Rarely,Sales,Female,Sales Representative,1,No
+28,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+51,No,Travel_Rarely,Sales,Female,Sales Executive,4,No
+34,Yes,Non-Travel,Sales,Male,Sales Executive,8,Yes
+24,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+30,No,Travel_Rarely,Sales,Male,Sales Representative,1,No
+36,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+40,No,Travel_Rarely,Sales,Female,Sales Executive,7,No
+34,No,Non-Travel,Sales,Female,Sales Executive,9,No
+25,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+56,No,Travel_Frequently,Sales,Female,Sales Executive,9,No
+30,No,Travel_Rarely,Sales,Female,Sales Executive,0,No
+41,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+24,Yes,Travel_Rarely,Sales,Female,Sales Representative,1,Yes
+34,Yes,Travel_Frequently,Sales,Female,Sales Representative,0,No
+40,No,Travel_Rarely,Sales,Female,Manager,0,No
+30,No,Non-Travel,Sales,Female,Sales Executive,0,No
+57,No,Travel_Rarely,Sales,Male,Manager,3,No
+60,No,Travel_Frequently,Sales,Female,Sales Executive,4,No
+46,No,Travel_Rarely,Sales,Female,Sales Executive,2,Yes
+30,No,Travel_Rarely,Sales,Male,Sales Representative,0,No
+36,No,Non-Travel,Sales,Male,Sales Executive,1,No
+48,No,Travel_Rarely,Sales,Female,Sales Executive,2,No
+55,No,Travel_Rarely,Sales,Female,Manager,3,No
+41,No,Non-Travel,Sales,Male,Sales Executive,7,No
+35,No,Travel_Rarely,Sales,Male,Sales Executive,9,No
+31,No,Travel_Rarely,Sales,Male,Sales Executive,4,Yes
+45,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+31,No,Travel_Rarely,Sales,Male,Manager,9,No
+18,Yes,Travel_Frequently,Sales,Male,Sales Representative,1,Yes
+40,No,Non-Travel,Sales,Male,Sales Executive,3,No
+26,No,Travel_Rarely,Sales,Male,Sales Executive,5,No
+35,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+34,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+41,No,Travel_Rarely,Sales,Female,Manager,7,No
+37,No,Non-Travel,Sales,Male,Sales Executive,1,No
+32,Yes,Non-Travel,Sales,Male,Sales Executive,8,No
+24,No,Travel_Frequently,Sales,Male,Sales Representative,0,No
+26,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+25,No,Travel_Rarely,Sales,Male,Sales Representative,1,No
+30,Yes,Travel_Frequently,Sales,Male,Sales Representative,1,No
+31,Yes,Travel_Rarely,Sales,Male,Sales Executive,2,No
+31,No,Travel_Rarely,Sales,Male,Sales Executive,4,No
+37,No,Travel_Rarely,Sales,Male,Sales Executive,4,Yes
+34,No,Travel_Rarely,Sales,Female,Sales Representative,1,Yes
+27,Yes,Travel_Rarely,Sales,Male,Sales Representative,0,No
+21,No,Travel_Rarely,Sales,Male,Sales Representative,1,No
+33,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+53,No,Travel_Rarely,Sales,Female,Sales Executive,7,No
+45,Yes,Travel_Frequently,Sales,Female,Sales Executive,2,No
+29,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+25,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+38,No,Travel_Rarely,Sales,Female,Sales Executive,0,No
+48,No,Travel_Rarely,Sales,Male,Sales Executive,3,No
+27,No,Travel_Frequently,Sales,Female,Sales Executive,1,Yes
+24,Yes,Travel_Rarely,Sales,Female,Sales Executive,9,No
+32,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+50,Yes,Travel_Frequently,Sales,Male,Sales Executive,3,Yes
+47,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+40,No,Travel_Frequently,Sales,Male,Sales Executive,5,Yes
+60,No,Travel_Rarely,Sales,Male,Sales Executive,8,No
+50,No,Travel_Rarely,Sales,Male,Sales Representative,7,No
+47,No,Travel_Frequently,Sales,Female,Sales Executive,9,Yes
+30,No,Travel_Rarely,Sales,Male,Sales Executive,7,No
+29,No,Travel_Rarely,Sales,Male,Sales Representative,1,No
+43,No,Travel_Frequently,Sales,Male,Sales Executive,3,No
+29,No,Travel_Rarely,Sales,Male,Sales Representative,1,No
+52,No,Travel_Rarely,Sales,Male,Manager,1,No
+25,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+45,No,Travel_Rarely,Sales,Male,Sales Representative,0,No
+47,Yes,Travel_Frequently,Sales,Female,Sales Executive,4,Yes
+34,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+36,No,Non-Travel,Sales,Male,Sales Executive,1,No
+26,Yes,Travel_Rarely,Sales,Male,Sales Executive,6,No
+27,No,Travel_Frequently,Sales,Male,Sales Executive,0,No
+35,No,Travel_Rarely,Sales,Female,Sales Representative,1,No
+34,No,Travel_Rarely,Sales,Female,Sales Executive,5,No
+33,Yes,Travel_Rarely,Sales,Female,Sales Executive,5,No
+49,Yes,Travel_Rarely,Sales,Female,Sales Executive,1,No
+55,Yes,Travel_Rarely,Sales,Male,Sales Executive,4,No
+28,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+51,No,Travel_Rarely,Sales,Female,Manager,2,No
+33,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+36,No,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+32,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+53,No,Travel_Rarely,Sales,Female,Sales Executive,7,Yes
+45,No,Travel_Rarely,Sales,Male,Sales Executive,4,Yes
+37,No,Travel_Rarely,Sales,Male,Sales Executive,4,No
+25,No,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+25,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+32,No,Travel_Frequently,Sales,Male,Sales Executive,1,No
+38,No,Travel_Rarely,Sales,Male,Sales Representative,0,No
+29,Yes,Travel_Rarely,Sales,Female,Sales Representative,6,Yes
+53,No,Travel_Rarely,Sales,Male,Sales Executive,5,No
+37,No,Travel_Frequently,Sales,Female,Sales Representative,5,No
+47,No,Travel_Rarely,Sales,Female,Sales Executive,0,Yes
+37,No,Non-Travel,Sales,Male,Sales Executive,1,Yes
+28,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+20,Yes,Travel_Rarely,Sales,Female,Sales Representative,1,No
+47,No,Travel_Rarely,Sales,Female,Sales Representative,1,Yes
+42,No,Travel_Rarely,Sales,Female,Sales Executive,7,No
+31,No,Travel_Rarely,Sales,Male,Sales Representative,3,No
+31,No,Non-Travel,Sales,Female,Sales Executive,1,No
+25,Yes,Travel_Rarely,Sales,Male,Sales Representative,1,Yes
+40,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+26,No,Travel_Frequently,Sales,Male,Sales Executive,1,No
+19,Yes,Travel_Rarely,Sales,Male,Sales Representative,1,Yes
+36,Yes,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+37,Yes,Travel_Rarely,Sales,Male,Sales Executive,5,No
+29,No,Travel_Frequently,Sales,Female,Sales Representative,1,No
+35,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+53,No,Travel_Rarely,Sales,Male,Manager,6,No
+30,No,Travel_Rarely,Sales,Male,Sales Executive,5,No
+38,No,Non-Travel,Sales,Female,Sales Executive,1,Yes
+35,No,Travel_Rarely,Sales,Male,Sales Executive,6,No
+39,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+40,Yes,Non-Travel,Sales,Female,Sales Executive,4,Yes
+36,No,Non-Travel,Sales,Male,Sales Executive,4,No
+33,No,Non-Travel,Sales,Male,Manager,1,No
+47,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+42,No,Travel_Rarely,Sales,Male,Manager,6,No
+38,No,Travel_Rarely,Sales,Male,Sales Executive,8,Yes
+26,Yes,Non-Travel,Sales,Male,Sales Executive,8,No
+52,Yes,Travel_Rarely,Sales,Female,Manager,1,No
+44,No,Travel_Rarely,Sales,Female,Sales Executive,3,Yes
+50,No,Non-Travel,Sales,Female,Sales Executive,0,No
+33,No,Non-Travel,Sales,Female,Sales Representative,0,No
+45,No,Travel_Rarely,Sales,Female,Manager,3,No
+34,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+59,No,Travel_Rarely,Sales,Male,Manager,3,Yes
+53,No,Travel_Frequently,Sales,Female,Sales Executive,2,No
+34,No,Travel_Rarely,Sales,Female,Sales Representative,1,Yes
+28,No,Travel_Rarely,Sales,Male,Sales Representative,1,No
+40,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+54,No,Travel_Rarely,Sales,Female,Sales Executive,6,No
+43,No,Travel_Rarely,Sales,Male,Sales Executive,5,No
+20,Yes,Travel_Frequently,Sales,Female,Sales Representative,1,Yes
+35,Yes,Travel_Rarely,Sales,Male,Sales Executive,0,Yes
+37,No,Travel_Rarely,Sales,Female,Sales Executive,2,Yes
+50,Yes,Travel_Frequently,Sales,Male,Sales Executive,3,Yes
+33,No,Travel_Frequently,Sales,Female,Sales Executive,0,No
+45,No,Non-Travel,Sales,Female,Sales Executive,1,No
+38,No,Travel_Rarely,Sales,Male,Sales Executive,0,Yes
+46,No,Travel_Rarely,Sales,Male,Manager,3,No
+38,No,Travel_Rarely,Sales,Male,Sales Executive,7,No
+31,No,Travel_Frequently,Sales,Male,Sales Representative,0,No
+35,No,Travel_Frequently,Sales,Male,Sales Executive,1,No
+49,No,Travel_Rarely,Sales,Male,Sales Executive,6,No
+33,Yes,Travel_Rarely,Sales,Female,Sales Executive,0,Yes
+34,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+29,Yes,Travel_Rarely,Sales,Female,Sales Executive,1,No
+42,Yes,Travel_Frequently,Sales,Male,Sales Executive,0,Yes
+42,No,Travel_Rarely,Sales,Male,Sales Executive,7,No
+30,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+43,Yes,Travel_Rarely,Sales,Female,Sales Executive,8,No
+32,No,Non-Travel,Sales,Female,Sales Representative,1,No
+46,No,Travel_Rarely,Sales,Female,Manager,8,No
+30,No,Travel_Rarely,Sales,Male,Sales Executive,8,No
+40,No,Travel_Frequently,Sales,Male,Sales Executive,5,No
+35,No,Travel_Rarely,Sales,Male,Sales Executive,3,Yes
+33,No,Travel_Frequently,Sales,Female,Sales Executive,1,No
+20,No,Travel_Rarely,Sales,Male,Sales Representative,1,No
+60,No,Travel_Rarely,Sales,Male,Sales Executive,0,Yes
+40,No,Travel_Rarely,Sales,Female,Sales Executive,7,No
+25,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+35,No,Non-Travel,Sales,Female,Sales Executive,4,Yes
+59,No,Travel_Rarely,Sales,Female,Sales Executive,5,No
+44,No,Travel_Rarely,Sales,Male,Manager,7,No
+33,No,Travel_Rarely,Sales,Male,Sales Executive,0,Yes
+25,Yes,Travel_Frequently,Sales,Male,Sales Representative,1,Yes
+45,Yes,Travel_Rarely,Sales,Female,Manager,2,Yes
+46,No,Travel_Rarely,Sales,Female,Manager,2,No
+34,No,Travel_Rarely,Sales,Female,Sales Executive,0,Yes
+51,No,Travel_Frequently,Sales,Male,Manager,4,Yes
+43,No,Travel_Rarely,Sales,Female,Sales Executive,3,No
+32,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+40,Yes,Travel_Rarely,Sales,Male,Sales Executive,2,Yes
+52,Yes,Travel_Rarely,Sales,Male,Sales Executive,9,Yes
+31,No,Non-Travel,Sales,Female,Sales Executive,1,Yes
+41,No,Non-Travel,Sales,Male,Sales Executive,1,No
+31,Yes,Travel_Frequently,Sales,Female,Sales Representative,1,Yes
+41,No,Travel_Frequently,Sales,Female,Sales Executive,0,No
+38,No,Travel_Rarely,Sales,Female,Sales Executive,3,No
+34,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+36,No,Travel_Frequently,Sales,Female,Sales Executive,2,No
+27,No,Travel_Rarely,Sales,Female,Sales Representative,8,No
+27,No,Travel_Frequently,Sales,Male,Sales Executive,3,No
+55,Yes,Travel_Rarely,Sales,Male,Sales Executive,6,Yes
+31,Yes,Travel_Frequently,Sales,Female,Sales Representative,7,No
+35,Yes,Travel_Frequently,Sales,Female,Sales Executive,0,Yes
+28,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+39,No,Travel_Rarely,Sales,Male,Sales Executive,3,Yes
+51,No,Travel_Frequently,Sales,Male,Sales Executive,2,No
+33,No,Travel_Frequently,Sales,Male,Sales Executive,6,No
+32,No,Travel_Rarely,Sales,Male,Sales Executive,0,Yes
+25,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+27,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+36,No,Travel_Rarely,Sales,Female,Sales Executive,3,Yes
+31,Yes,Travel_Frequently,Sales,Female,Sales Representative,1,No
+30,No,Travel_Rarely,Sales,Female,Sales Executive,7,No
+36,No,Travel_Rarely,Sales,Female,Sales Executive,4,No
+25,Yes,Travel_Rarely,Sales,Male,Sales Representative,3,No
+24,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+32,No,Travel_Rarely,Sales,Male,Sales Executive,4,No
+31,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+46,Yes,Travel_Rarely,Sales,Male,Sales Executive,4,No
+48,No,Travel_Rarely,Sales,Male,Sales Executive,4,No
+28,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+33,No,Travel_Frequently,Sales,Male,Sales Executive,0,No
+34,No,Travel_Rarely,Sales,Male,Sales Executive,3,No
+30,No,Travel_Rarely,Sales,Male,Sales Executive,8,No
+44,No,Travel_Frequently,Sales,Female,Sales Executive,7,No
+28,Yes,Travel_Frequently,Sales,Male,Sales Representative,3,No
+29,Yes,Travel_Frequently,Sales,Female,Sales Executive,5,No
+34,Yes,Travel_Rarely,Sales,Female,Sales Executive,0,Yes
+35,No,Travel_Rarely,Sales,Male,Sales Representative,1,No
+24,No,Non-Travel,Sales,Female,Sales Representative,1,No
+29,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+47,No,Travel_Rarely,Sales,Female,Sales Executive,3,Yes
+28,No,Travel_Frequently,Sales,Male,Sales Executive,0,No
+46,No,Travel_Rarely,Sales,Female,Manager,8,No
+34,No,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+34,No,Travel_Rarely,Sales,Male,Sales Representative,0,Yes
+40,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+35,No,Travel_Rarely,Sales,Female,Sales Representative,0,No
+36,No,Travel_Rarely,Sales,Male,Sales Representative,3,Yes
+48,No,Travel_Rarely,Sales,Female,Sales Executive,8,No
+33,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+30,Yes,Travel_Rarely,Sales,Male,Sales Executive,1,No
+30,No,Travel_Rarely,Sales,Male,Sales Executive,3,No
+55,No,Travel_Rarely,Sales,Male,Manager,1,No
+38,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+38,No,Travel_Rarely,Sales,Female,Sales Executive,2,No
+36,No,Travel_Rarely,Sales,Female,Sales Executive,6,No
+39,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+50,No,Travel_Rarely,Sales,Male,Manager,4,Yes
+40,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+46,No,Travel_Rarely,Sales,Male,Manager,1,No
+45,No,Non-Travel,Sales,Male,Sales Executive,1,No
+31,No,Travel_Frequently,Sales,Male,Sales Executive,7,No
+18,Yes,Travel_Frequently,Sales,Female,Sales Representative,1,Yes
+35,Yes,Travel_Rarely,Sales,Male,Sales Executive,9,No
+35,Yes,Travel_Rarely,Sales,Male,Sales Executive,6,Yes
+29,No,Travel_Rarely,Sales,Male,Sales Executive,9,No
+20,No,Travel_Rarely,Sales,Female,Sales Representative,1,No
+35,Yes,Travel_Frequently,Sales,Male,Sales Executive,3,Yes
+29,No,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+33,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+31,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+47,No,Travel_Rarely,Sales,Female,Manager,6,No
+41,No,Travel_Rarely,Sales,Male,Sales Executive,3,Yes
+20,No,Travel_Rarely,Sales,Male,Sales Representative,1,No
+33,No,Non-Travel,Sales,Female,Sales Executive,1,Yes
+48,Yes,Travel_Frequently,Sales,Female,Sales Representative,2,Yes
+37,No,Travel_Frequently,Sales,Male,Sales Executive,1,No
+23,Yes,Travel_Rarely,Sales,Male,Sales Representative,1,Yes
+43,No,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+41,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+36,No,Travel_Rarely,Sales,Female,Sales Representative,3,No
+47,Yes,Travel_Frequently,Sales,Male,Sales Executive,7,No
+47,No,Non-Travel,Sales,Male,Sales Executive,7,No
+46,No,Travel_Rarely,Sales,Male,Sales Executive,4,Yes
+36,Yes,Travel_Rarely,Sales,Male,Sales Executive,5,Yes
+32,Yes,Travel_Rarely,Sales,Male,Sales Executive,6,No
+32,No,Travel_Rarely,Sales,Male,Sales Executive,3,No
+40,No,Travel_Rarely,Sales,Male,Manager,1,No
+31,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+29,Yes,Travel_Rarely,Sales,Female,Sales Representative,1,No
+30,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+33,No,Non-Travel,Sales,Female,Sales Executive,8,No
+49,No,Travel_Rarely,Sales,Female,Sales Executive,3,No
+33,Yes,Travel_Rarely,Sales,Female,Sales Executive,2,Yes
+31,Yes,Travel_Rarely,Sales,Male,Sales Executive,2,No
+34,No,Non-Travel,Sales,Male,Sales Executive,1,Yes
+34,No,Travel_Rarely,Sales,Female,Sales Executive,5,No
+21,Yes,Travel_Rarely,Sales,Male,Sales Representative,1,No
+31,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+37,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+35,Yes,Travel_Rarely,Sales,Male,Sales Executive,1,Yes
+46,No,Non-Travel,Sales,Male,Sales Executive,8,No
+39,No,Travel_Frequently,Sales,Male,Sales Executive,2,No
+41,No,Travel_Rarely,Sales,Female,Sales Executive,0,Yes
+34,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+58,No,Non-Travel,Sales,Male,Manager,4,No
+31,No,Travel_Frequently,Sales,Female,Sales Executive,2,No
+38,No,Travel_Rarely,Sales,Female,Sales Representative,2,Yes
+26,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+45,No,Non-Travel,Sales,Female,Sales Executive,4,No
+43,No,Travel_Frequently,Sales,Male,Sales Executive,1,No
+32,No,Travel_Frequently,Sales,Male,Sales Executive,8,No
+32,Yes,Travel_Rarely,Sales,Male,Sales Executive,7,Yes
+46,No,Travel_Rarely,Sales,Female,Sales Executive,2,No
+27,No,Travel_Rarely,Sales,Female,Sales Representative,1,No
+46,Yes,Travel_Rarely,Sales,Female,Sales Executive,5,No
+28,No,Travel_Rarely,Sales,Female,Sales Representative,1,No
+30,Yes,Travel_Rarely,Sales,Male,Sales Representative,1,No
+36,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+34,No,Travel_Rarely,Sales,Male,Sales Executive,2,Yes
+27,No,Travel_Rarely,Sales,Female,Sales Executive,0,No
+36,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+41,No,Travel_Rarely,Sales,Female,Sales Executive,5,No
+31,No,Travel_Rarely,Sales,Female,Sales Executive,2,Yes
+34,No,Travel_Rarely,Sales,Female,Sales Executive,3,Yes
+33,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+28,No,Travel_Frequently,Sales,Male,Sales Executive,1,Yes
+29,Yes,Travel_Frequently,Sales,Male,Sales Representative,1,No
+39,No,Non-Travel,Sales,Female,Sales Executive,6,No
+28,Yes,Travel_Rarely,Sales,Female,Sales Executive,3,Yes
+56,No,Travel_Rarely,Sales,Female,Sales Executive,4,No
+58,No,Travel_Rarely,Sales,Female,Manager,4,Yes
+42,No,Travel_Rarely,Sales,Male,Sales Executive,3,Yes
+35,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+34,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+34,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+38,No,Travel_Rarely,Sales,Male,Sales Representative,4,No
+35,No,Travel_Rarely,Sales,Female,Sales Executive,1,Yes
+27,No,Travel_Rarely,Sales,Male,Sales Executive,1,No
+31,Yes,Travel_Frequently,Sales,Male,Sales Executive,1,Yes
+53,Yes,Travel_Rarely,Sales,Male,Sales Executive,6,Yes
+39,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+40,No,Travel_Rarely,Sales,Female,Sales Executive,3,No
+38,No,Travel_Rarely,Sales,Male,Sales Executive,0,No
+31,No,Travel_Rarely,Sales,Male,Sales Representative,0,No
+32,No,Travel_Rarely,Sales,Male,Sales Representative,0,No
+32,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+25,No,Travel_Rarely,Sales,Female,Sales Executive,0,Yes
+52,No,Non-Travel,Sales,Male,Sales Representative,2,No
+21,No,Travel_Rarely,Sales,Male,Sales Representative,1,Yes
+23,Yes,Travel_Frequently,Sales,Male,Sales Representative,1,No
+36,No,Travel_Rarely,Sales,Female,Sales Executive,0,No
+34,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+36,No,Non-Travel,Sales,Male,Sales Executive,1,No
+41,No,Travel_Rarely,Sales,Male,Sales Executive,2,No
+38,No,Travel_Rarely,Sales,Female,Sales Executive,1,No
+50,Yes,Travel_Frequently,Sales,Male,Sales Executive,7,No
+36,No,Travel_Rarely,Sales,Female,Sales Executive,4,No
+45,No,Travel_Rarely,Sales,Female,Sales Executive,8,No
+50,Yes,Travel_Rarely,Sales,Male,Sales Executive,4,Yes
+39,No,Travel_Rarely,Sales,Female,Sales Executive,0,No
+26,No,Travel_Rarely,Sales,Female,Sales Representative,0,No
+49,No,Travel_Frequently,Sales,Male,Sales Executive,2,No
